@@ -18,6 +18,8 @@
 
 ## Implementation
 
+* The code was written in Python 2.7 environment
+
 * python -W detection.py samples Analysis, for general anomaly detection
 * samples, the directory containing cif protein files
 * Analysis, the directory ctonaining the histogram data generated from the reference X-ray dataset
